@@ -102,7 +102,7 @@ This project implements a **4-Bit Counter** using **Verilog HDL**. The counter i
 
 ### RTL Schematic
 
-![RTL Schematic](rtl_schematic.png)
+![RTL Schematic](schematic.png)
 
 ### Simulation Waveform
 
